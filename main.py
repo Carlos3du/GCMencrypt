@@ -1,5 +1,5 @@
 
-from functions import encrypt, decrypt
+from modules.encryption import encrypt, decrypt
 import sys
 
 
